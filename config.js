@@ -1,7 +1,7 @@
 module.exports = {
     FB_PAGE_TOKEN: 'EAANOP0DLNXABACB6PZBs5vtYzoK92anvQKDJtZCMZBQVhnw1ZBdd3MPNctzDZCDleCRHmRyxdXKFHjcEzfLkWpHtDcSZCX8VlYJCZCUIcQKXaBK2mZCwvtgZAHed2065E3tWO7OJgbZChQDoxZA2XoTldd6hBCfSsZB42JwS9vj5KwdyrQZDZD',
-    FB_VERIFY_TOKEN: 'IndoreMeriJaan0731',
-    API_AI_CLIENT_ACCESS_TOKEN: 'a0608bd94bc04fe8bacab682d44fceea',
+    FB_VERIFY_TOKEN: 'infoBeans',
+    API_AI_CLIENT_ACCESS_TOKEN: '59115751b0224866a2e31a653bf4e241',
     FB_APP_SECRET: 'f858118b9a0531b37b50121678eff665',
-    SERVER_URL: "https://jigneshtravels.herokuapp.com/",
+    SERVER_URL: "https://aakibqureshi.herokuapp.com/",
 };
